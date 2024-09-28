@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 25 17:03:27 2023
-
-@author: 7G5484848
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import interpolate
